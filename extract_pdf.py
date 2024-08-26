@@ -1,3 +1,12 @@
+"""
+below dependencies are required
+
+pip install pymupdf
+pip install fitz
+pip install frontend
+
+"""
+
 import pymupdf
 
 file_path = "C:\\Users\\mohan\\Downloads\\file23.pdf"
